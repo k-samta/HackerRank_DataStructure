@@ -1,4 +1,4 @@
-package com.java;
+package com.java.hackerrank.ds;
 
 public class Array_DS {
 	// Complete the reverseArray function below.
